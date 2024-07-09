@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentWebApp", "StudentWebApp\StudentWebApp.csproj", "{35270E89-CCA7-4AB2-B39D-671E31813FF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentWebApp", "StudentWebApp\StudentWebApp.csproj", "{35270E89-CCA7-4AB2-B39D-671E31813FF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD_webAPI", "C:\Users\hp\Downloads\webapicrd\webapicrd\CRUD_webAPI.csproj", "{CFEEA2FA-F217-4B10-A6C3-E5F5CFF1886B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{35270E89-CCA7-4AB2-B39D-671E31813FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35270E89-CCA7-4AB2-B39D-671E31813FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35270E89-CCA7-4AB2-B39D-671E31813FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEEA2FA-F217-4B10-A6C3-E5F5CFF1886B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEEA2FA-F217-4B10-A6C3-E5F5CFF1886B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEEA2FA-F217-4B10-A6C3-E5F5CFF1886B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEEA2FA-F217-4B10-A6C3-E5F5CFF1886B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
