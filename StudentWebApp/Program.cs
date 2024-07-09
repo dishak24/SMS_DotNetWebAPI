@@ -1,8 +1,12 @@
+using StudentWebApp.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<IStudentService, StudentService>();
+
 
 var app = builder.Build();
 
